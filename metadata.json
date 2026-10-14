@@ -1,0 +1,6 @@
+{
+  "name": "Dash & Draw: The Ultimate Run",
+  "description": "A 2D drawing-based platformer game where you sketch bridges, ramps, and shields to navigate dangerous terrain, collect gems, and race to the finish line.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
